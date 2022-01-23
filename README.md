@@ -20,3 +20,5 @@ Undergrad computer science student that loves learning new programming languages
 
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDertoni&exclude_repo=SpecialRelativityVisualizer,AnalyticalGeometry&langs_count=10&layout=compact&theme=gruvbox)
