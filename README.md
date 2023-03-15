@@ -1,6 +1,6 @@
 ### Hi
 
-Undergrad computer science student that loves learning new programming languages.
+I am an undergrad computer science student that loves technology and learning new programming languages.
 
 ### Tech skills
 
