@@ -1,6 +1,6 @@
 ### Hi
 
-I am an undergrad computer science student that loves technology and learning new programming languages.
+I am an undergrad computer science student that loves technology and learning new programming languages. Check out [my blog](https://gabrieldertoni.github.io/) where I post random cool stuff I like to think about.
 
 ### Tech skills
 
